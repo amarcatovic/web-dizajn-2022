@@ -11,9 +11,6 @@ IDE i git:
 ## Frameworks
 
 - [Bootstrap](https://getbootstrap.com/)
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
  
 ## Templates
 
