@@ -1,9 +1,29 @@
-# web-dizajn-2022
-PTF Zenica | Web Dizajn | Vježbe
+# Politehnički Fakultet Zenica
+### Web Dizajn | Vježbe
+----
+## Instalacije
 
-Linkovi:
-VS Code - https://code.visualstudio.com/
-Git - https://git-scm.com/
+IDE i git:
 
-Bootstrap - https://getbootstrap.com/
-Templates - https://freefrontend.com/bootstrap-code-examples/
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+
+## Frameworks
+
+- [Bootstrap](https://getbootstrap.com/)
+
+And of course Dillinger itself is open source with a [public repository][dill]
+ on GitHub.
+ 
+## Templates
+
+- [FreeFrontend](https://freefrontend.com/bootstrap-code-examples/)
+- [SVGIcons](https://undraw.co/search)
+
+## Kopiranje repozitorija na lokalnu mašinu
+
+```sh
+git clone https://github.com/amarcatovic/web-dizajn-2022.git
+```
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
