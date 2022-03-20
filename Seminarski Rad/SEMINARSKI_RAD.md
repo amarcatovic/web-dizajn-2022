@@ -12,7 +12,7 @@ Aplikacija treba da ima sljedeće tehničke karakteristike:
 •	Komunikacija sa backendom preko fetch ili AJAX metode
 Temu aplikacije izabrati po želji. Aplikacija se radi individualno. Rok za predaju 22.05.2022.
 
-###(max 22 boda) Potrebno je napraviti aplikaciju koristeći sljedeće tehnologije:
+### (max 22 boda) Potrebno je napraviti aplikaciju koristeći sljedeće tehnologije:
 •	HTML
 •	CSS
 •	JavaScript
