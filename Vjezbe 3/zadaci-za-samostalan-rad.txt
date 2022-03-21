@@ -1,0 +1,32 @@
+***********************************************
+         ZADACI ZA SAMOSTALNI RAD
+***********************************************
+
+1. Write a JavaScript program to display the current day and time in the following format.
+Sample Output : Today is : Tuesday.
+Current time is : 10 PM : 30 : 38
+
+2. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+
+3. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
+
+4. Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050
+
+5. Write a JavaScript program to calculate days left until next Christmas
+
+6. Write a JavaScript program to calculate multiplication and division of two numbers (input from user).
+
+7. Write a JavaScript program to convert temperatures to and from Celsius, Fahrenheit.
+[ Formula : c/5 = (f-32)/9 [ where c = temperature in Celsius and f = temperature in Fahrenheit ]
+Expected Output :
+60°C is 140 °F
+45°F is 7.222222222222222°C
+
+8. Write a JavaScript program to compute the sum of the two given integers. If the two values are same, then returns triple their sum.
+
+9. Write a JavaScript program to compute the absolute difference between a specified number and 19. Returns triple their absolute difference if the specified number is greater than 19
+
+10. Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their sum is 50.
+
+---------------------------------------------------------------------------------------------
+Pitanja, konsultacije i rješenja poslati na: amar.catovic2018@size.ba
