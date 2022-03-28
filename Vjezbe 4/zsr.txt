@@ -1,0 +1,26 @@
+***********************************************
+         ZADACI ZA SAMOSTALNI RAD
+***********************************************
+
+1. Write a JavaScript function to clone an array.
+
+2. Write a JavaScript function to remove duplicate items from an array (5 and '5' are considered duplicates).
+
+3. Write a JavaScript function to merge two arrays and removes all duplicates elements.
+
+4. Write a JavaScript function to remove all odd numbers from array.
+
+5. Write a JavaScript function to get a sum of a given array.
+
+6. Create a JavaScript objects array of Balkan countries with basic properties.
+
+7. Create a JavaScript function that returns country with the most population (from task 6).
+
+8. Create a JavaScript function that returns counties that have population more than 5000000.
+
+9. Create a JavaScript function that returns all city names. (from task 6).
+
+10. Create a JavaScript function that returns all city names which begin with letter 'Z'. (from task 6).
+
+---------------------------------------------------------------------------------------------
+Pitanja, konsultacije i rješenja poslati na: amar.catovic2018@size.ba
