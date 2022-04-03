@@ -18,7 +18,7 @@ Temu aplikacije izabrati po želji. Aplikacija se radi individualno. Rok za pred
 •	JavaScript
 Aplikacija treba da ima sljedeće tehničke karakteristike:
 •	Responsive design
-•	Koristiti endpointe za GET, POST, UPDATE i DELETE
+•	Koristiti endpointe za GET, POST, UPDATE i DELETE [API](https://ptf-web-dizajn-2022.azurewebsites.net/swagger/index.html)
 •	Komunikacija sa backendom preko fetch ili AJAX metode
 Temu aplikacije izabrati po želji. Aplikacija se radi individualno. API odabrati po želji (primjer https://jsonplaceholder.typicode.com/)  Rok za predaju 22.05.2022.
 
