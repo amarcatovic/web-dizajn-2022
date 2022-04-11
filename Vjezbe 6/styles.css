@@ -92,20 +92,3 @@ body{
     flex-direction: column;
     text-align: center;
 }
-
-/* donji dio */
-.weather-info__week{
-    padding: 0 20px 10px 20px;
-    display: grid;
-    grid-template-columns: repeat(7, 1fr);
-    column-gap: 10px;
-}
-
-.weather-info__week div{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-color: rgba(0, 63, 222, 0.3);
-    border-radius: 10px;
-}
