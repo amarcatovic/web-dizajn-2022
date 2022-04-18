@@ -4,22 +4,22 @@
 
 $(document).ready(() => {
     //selectors
-    //$('*').hide()
+    //$('*').hide();
     // $('p.paragraph').css('color', 'red');
-    // $('#para2').css({color: 'red', fontSize: '40px'})
-    // $('#para2').addClass('border')
+    // $('#para2').css({color: 'red', fontSize: '40px'});
+    // $('#para2').addClass('border');
     // $('#button1').click(() => {
-    //     $('#para2').toggleClass('border')
+    //     $('#para2').toggleClass('border');
     // })
 
     // $('#newDiv').text('Ovo je text dodan preko jquery-a');
-    // $('#newDiv').html('<h1>Ovo je naslov dodan preko jquery-a</h1>')
+    // $('#newDiv').html('<h1>Ovo je naslov dodan preko jquery-a</h1>');
 
     // $('#alert-button').click(() => {
-    //     alert($('#newDiv').html())
+    //     alert($('#newDiv').html());
     // })
     
-    // $('#list').append('<li>Appended list item</li>')
+    // $('#list').append('<li>Appended list item</li>');
     // $('ul').prepend('<li>Prepend List Item</li>');
 
     // $('#para1').appendTo('#para2');
@@ -35,20 +35,20 @@ $(document).ready(() => {
     //$('p').wrapAll('<h1>');
 
     //events 
-    // $('#button1').click(()=> {
-    //     console.log('Button clicked')
+    // $('#button1').click(() => {
+    //     console.log('Button clicked');
     // })
 
     // $('#button1').on('click', () => {
-    //     console.log('Button clicked 2!')
+    //     console.log('Button clicked 2!');
     // })
 
     // $('#button1').on('click', () => {
-    //     $('#para2').toggle()
+    //     $('#para2').toggle();
     // })
 
     // $('#newDiv').dblclick(() => {
-    //     $('#newDiv').toggleClass('dbl')
+    //     $('#newDiv').toggleClass('dbl');
     // })
 
     // $('#newDiv').hover(() => {

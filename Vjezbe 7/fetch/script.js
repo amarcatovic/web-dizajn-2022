@@ -10,10 +10,10 @@
 
 // promise
 //     .then(val => {
-//         console.log(val)
+//         console.log(val);
 //     })
 //     .catch(err => {
-//         console.log(err)
+//         console.log(err);
 //     })
 
 
@@ -23,7 +23,7 @@
 //         if(!res.ok){
 //             throw Error('ovo je error');
 //         }
-//         return res.json()
+//         return res.json();
 //     })
 //     .then(data => {
 //         const todoList = document.getElementById('todo-list');
@@ -33,10 +33,10 @@
 //             todos += `<li> <p>${element.title}</p> <h1>${element.completed}</h1></li>`
 //         });
 
-//         todoList.innerHTML = todos
+//         todoList.innerHTML = todos;
 //     })
 //     .catch(err => {
-//         console.log(err)
+//         console.log(err);
 //     })
 
 // POST
@@ -54,11 +54,11 @@
 //         if(!res.ok){
 //             throw Error('ovo je error');
 //         }
-//         return res.json()
+//         return res.json();
 //     })
 //     .then(data => {
-//         console.log(data)
+//         console.log(data);
 //     })
 //     .catch(err => {
-//         console.log(err)
+//         console.log(err);
 //     })
