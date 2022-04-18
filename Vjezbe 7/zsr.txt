@@ -1,0 +1,11 @@
+***********************************************
+         ZADACI ZA SAMOSTALNI RAD
+***********************************************
+
+1. Napraviti formu (nije potrebna validacija) koja će imati unos name-a i job-a
+
+2. Koristeći endpoint (https://reqres.in/api/users) izvršiti poziv (POST metoda) - poziv je uspješan
+ako vam se vrati status code 201 sa podacima koje ste poslali. Primjer imate na https://reqres.in/
+
+---------------------------------------------------------------------------------------------
+Pitanja, konsultacije i rješenja poslati na: ahmed.mujic2018@size.ba
