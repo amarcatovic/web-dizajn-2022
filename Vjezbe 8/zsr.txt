@@ -1,0 +1,19 @@
+***********************************************
+         ZADACI ZA SAMOSTALNI RAD
+***********************************************
+
+1. Kreirati novi .NET 5 projekat i dodati sve potrebno za povezivanje baze (dodajte neku placeholder tabelu)
+
+-- u nastavku korsitite weather summary listu ili niz (kao na vježbama) --
+
+2. Kreirati GET metodu koja će vraćati element iz liste preko indexa - npr. proslijedite kroz payload
+	2 (index) - znači trebate vratiti 3. element liste i Ok status kod. Ukoliko se proslijedi index
+	koji je veći od veličine liste, vratite bad request. 
+
+3. Kreirati POST metodu koja dodaje summary na početak liste
+
+4. Kreirati DELETE metodu koja briše srednji element liste
+
+5. Kreirati PUT metodu koja edituje summary preko indexa 
+---------------------------------------------------------------------------------------------
+Pitanja, konsultacije i rješenja poslati na: ahmed.mujic2018@size.ba
