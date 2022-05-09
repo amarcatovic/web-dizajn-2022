@@ -1,0 +1,11 @@
+***********************************************
+         ZADACI ZA SAMOSTALNI RAD
+***********************************************
+
+1. Prebaciti sve metode i query-e u iz sinhronog u asinhrono izvršavanje
+
+2. Na frontendu implementirati zatvaranje modal-a nakon submita
+
+3. Nakon complete-anja todo-a rerenderovati todo-e 
+---------------------------------------------------------------------------------------------
+Pitanja, konsultacije i rješenja poslati na: ahmed.mujic2018@size.ba
